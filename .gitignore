@@ -1,0 +1,11 @@
+# Database
+notes.db
+
+# Composer
+/vendor/
+composer.phar
+composer.lock
+
+# PHP
+error_log
+*.log
